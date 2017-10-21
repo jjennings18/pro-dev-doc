@@ -36,7 +36,12 @@
 			I learned about the difference between quantitative and qualitative qualites and how to apply them when
 			marketing myself to a potential employer. I learned the difference bewtween both frontend and backend design
 			and how they mesh together to make a fully functional webpage. Last but not least I learned about Dev Tools
-			and how it can be used to help discover the code on a website and even be used to help make your own website.
-		</p>
+			and how it can be used to help discover the code on a website and even be used to help make your own website.</p>
+		<h2>week 1</h2>
+		<p>This week we dove deeper into looking into both frontend and backend development.
+			I learned about object oriented development and how to really think about user interaction and experience when
+		developing a website or application. I was showed a few different tools to help make a rough draft or blueprint
+			for how I would want my website to look. I also learned how start a database in php storm and write statments
+		in Mysql.</p>
 	</body>
 </html>
