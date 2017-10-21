@@ -12,7 +12,7 @@
 				for the first year.</li>2
 				<li>Had lowest amount of negative codes called in my unit.</li>
 			</ul>
-		<h2> <strong>Qualitative:</strong></h2>
+		<h1> <strong>Qualitative:</strong></h1>
 			<ul>
 				<li>Good Organization skills</li>
 				<li>Great time management skills</li>
@@ -29,5 +29,14 @@
 		<p> <strong>Elevator pitch:</strong> Hi my name is Jermain, I am currently attending school to learn how to code
 		so I am able to learn what it takes to make a website function properly and securely. Do you have any ideas for
 		a website that could be launched or know of an existing website that could use some tuning up?</p>
+
+		<h2>Weekly Reflections</h2>
+		<p>Week 0</p>
+		<p>This week I got clarification on HTML and basic coding practices.
+			I learned about the difference between quantitative and qualitative qualites and how to apply them when
+			marketing myself to a potential employer. I learned the difference bewtween both frontend and backend design
+			and how they mesh together to make a fully functional webpage. Last but not least I learned about Dev Tools
+			and how it can be used to help discover the code on a website and even be used to help make your own website.
+		</p>
 	</body>
 </html>
