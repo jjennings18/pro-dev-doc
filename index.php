@@ -31,7 +31,7 @@
 		a website that could be launched or know of an existing website that could use some tuning up?</p>
 
 		<h2>Weekly Reflections</h2>
-		<p>Week 0</p>
+		<h2>Week 0</h2>
 		<p>This week I got clarification on HTML and basic coding practices.
 			I learned about the difference between quantitative and qualitative qualites and how to apply them when
 			marketing myself to a potential employer. I learned the difference bewtween both frontend and backend design
