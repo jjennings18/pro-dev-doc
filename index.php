@@ -6,6 +6,7 @@
 	</head>
 	<body>
 		<header><h1>Jermain Jennings</h1></header>
+		<link type="text/css" href="style.css" rel="stylesheet">
 		<h1> <strong>Quantitative:</strong></h1>
 			<ul>
 				<li> Kept track of 50+ inmates and their daily habits(meal times, laundry, exchange, etc.)</li>
