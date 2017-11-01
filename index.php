@@ -45,5 +45,12 @@
 		developing a website or application. I was showed a few different tools to help make a rough draft or blueprint
 			for how I would want my website to look. I also learned how start a database in php storm and write statments
 		in Mysql.</p>
+
+		<h2>week 2</h2>
+		<p>This week we learned abous CSS and the a few of the diffenert uses and components that inside CSS to make a more attractive
+		webpage. We learned about box sizing property and flex box, I played the flexboxfroggy game and felt like I was able to
+		comprhend the material a lot better than just reading it or being told about it. On friday we were given out capstone
+			projects and learned what groups we would be working in.</p>
 	</body>
+
 </html>
