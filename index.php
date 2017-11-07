@@ -51,6 +51,12 @@
 		webpage. We learned about box sizing property and flex box, I played the flexboxfroggy game and felt like I was able to
 		comprhend the material a lot better than just reading it or being told about it. On friday we were given out capstone
 			projects and learned what groups we would be working in.</p>
+
+		<h2>Week 3</h2>
+			<p>This week we learned about how our capstone projects are broken up into different sections called tickes. We
+			also learned about the steps taken to have a ticket burned. We took a look at unit testing and how to impliment
+			it into our capstone projects. We also took a deeper look into CSS with the CSS challenge and how to apply flexbox
+			for best use on projects. Lastly I learned what my first assignment was for my portion of the group capstone project.</p>
 	</body>
 
 </html>
