@@ -56,7 +56,8 @@
 			<p>This week we learned about how our capstone projects are broken up into different sections called tickes. We
 			also learned about the steps taken to have a ticket burned. We took a look at unit testing and how to impliment
 			it into our capstone projects. We also took a deeper look into CSS with the CSS challenge and how to apply flexbox
-			for best use on projects. Lastly I learned what my first assignment was for my portion of the group capstone project.</p>
+			for best use on projects. We then went into taking a brief look into Bootstrap4 and were given a challenge assignment.
+				Lastly I learned what my first assignment was for my portion of the group capstone project.</p>
 	</body>
 
 </html>
