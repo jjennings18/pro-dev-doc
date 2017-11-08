@@ -58,6 +58,11 @@
 			it into our capstone projects. We also took a deeper look into CSS with the CSS challenge and how to apply flexbox
 			for best use on projects. We then went into taking a brief look into Bootstrap4 and were given a challenge assignment.
 				Lastly I learned what my first assignment was for my portion of the group capstone project.</p>
+
+		<h3>Board Game Reflection</h3>
+		<p> Playing the board game was fun, it taught us how to work togather and listen to eachothers ideas. It showed us
+		that its always better to have someone take another look at things because they may see a problem or issue that
+		you didnt take into account when making decisions.</p>
 	</body>
 
 </html>
