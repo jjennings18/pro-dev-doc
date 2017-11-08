@@ -26,13 +26,17 @@
 		</header>
 
 		<section>
+			<div class="d-flex row-reverse">
 			<div class="container">
+				<div class="row">
 				<h2>Qualitative</h2>
 				<ul class="list-group">
 					<li class="list-group-item">Good Organization skills</li>
 					<li class="list-group-item">Great time management skills</li>
 					<li class="list-group-item">Great people skills</li>
 				</ul>
+				</div>
+				</div>
 			</div>
 		</section>
 		<section></section>
